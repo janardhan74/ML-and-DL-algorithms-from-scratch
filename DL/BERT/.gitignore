@@ -1,0 +1,6 @@
+bert-it-l/
+cornell_movie_dialogs_corpus
+dataset
+bert_*.pth
+wandb
+cornell_movie_dialogs_corpus.zip

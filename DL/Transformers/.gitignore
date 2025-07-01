@@ -1,0 +1,13 @@
+test_2016_flickr.de
+test_2016_flickr.de.gz
+test_2016_flickr.en
+test_2016_flickr.en.gz
+train.de
+train.de.gz
+train.en
+train.en.gz
+val.de
+val.de.gz
+val.en
+val.en.gz
+wandb
